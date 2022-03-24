@@ -12,7 +12,7 @@
   },
   "author": "Mr.James",
   "license": "MIT",
-  "dependencies": {
+  "dependencies": {x
     "axios-proxy-fix": "^0.16.3",
     "express": "^4.16.4",
     "uuid": "^3.3.2"
